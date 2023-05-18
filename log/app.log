@@ -4,3 +4,6 @@
 {"level":"error","message":"error"}
 {"level":"info","message":"info"}
 {"level":"info","name":"SequelizeConnectionError","original":{},"parent":{}}
+{"level":"error","message":"error"}
+{"level":"info","message":"info"}
+{"level":"info","message":"Server work 5000"}
